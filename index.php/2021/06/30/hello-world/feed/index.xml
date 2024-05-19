@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Aliquam Vestibulum Morbi Blandit Cursus Risus	</title>
-	<atom:link href="/index.php/2021/06/30/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/index.php/2021/06/30/hello-world/</link>
+	<atom:link href="https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 30 Jun 2021 15:17:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/index.php/2021/06/30/hello-world/#comment-5</link>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/#comment-5</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 15:17:15 +0000</pubDate>

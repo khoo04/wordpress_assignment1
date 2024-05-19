@@ -9,8 +9,8 @@
 
 <channel>
 	<title>news &#8211; Losefy</title>
-	<atom:link href="/index.php/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://khoo04.github.io/wordpress_assignment1/index.php/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khoo04.github.io/wordpress_assignment1</link>
 	<description></description>
 	<lastBuildDate>Mon, 05 Jul 2021 15:42:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/05/Papirus-Team-Papirus-Apps-Pingus-icon.512-1-150x150.png</url>
+	<url>https://khoo04.github.io/wordpress_assignment1/wp-content/uploads/2024/05/Papirus-Team-Papirus-Apps-Pingus-icon.512-1-150x150.png</url>
 	<title>news &#8211; Losefy</title>
-	<link></link>
+	<link>https://khoo04.github.io/wordpress_assignment1</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Massa Vitae Toutor Condimentum Lacinia Quis</title>
-		<link>/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/</link>
-					<comments>/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/#respond</comments>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/</link>
+					<comments>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 15:42:45 +0000</pubDate>
@@ -59,15 +59,15 @@
 <p>Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Habitant morbi tristique senectus et netus et malesuada fames. Iaculis nunc sed augue lacus viverra vitae. In ante metus dictum at tempor commodo ullamcorper. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Mus mauris vitae ultricies leo integer malesuada nunc vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Mattis ullamcorper velit sed ullamcorper morbi. Integer malesuada nunc vel risus commodo. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. In iaculis nunc sed augue lacus. Vulputate mi sit amet mauris commodo quis. Eget mi proin sed libero enim. Tempor id eu nisl nunc mi ipsum faucibus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/massa-vitae-toutor-condimentum-lacinia-quis/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Venenatis Urna Cursus Eget Nunc Scelerisque</title>
-		<link>/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/</link>
-					<comments>/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/#respond</comments>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/</link>
+					<comments>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 15:41:41 +0000</pubDate>
@@ -95,15 +95,15 @@
 <p>Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Habitant morbi tristique senectus et netus et malesuada fames. Iaculis nunc sed augue lacus viverra vitae. In ante metus dictum at tempor commodo ullamcorper. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Mus mauris vitae ultricies leo integer malesuada nunc vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Mattis ullamcorper velit sed ullamcorper morbi. Integer malesuada nunc vel risus commodo. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. In iaculis nunc sed augue lacus. Vulputate mi sit amet mauris commodo quis. Eget mi proin sed libero enim. Tempor id eu nisl nunc mi ipsum faucibus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/venenatis-urna-cursus-eget-nunc-scelerisque/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Donec Adipiscing Tristique Risus Nec Feugiat</title>
-		<link>/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/</link>
-					<comments>/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/#respond</comments>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/</link>
+					<comments>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 15:32:26 +0000</pubDate>
@@ -131,15 +131,15 @@
 <p>Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Habitant morbi tristique senectus et netus et malesuada fames. Iaculis nunc sed augue lacus viverra vitae. In ante metus dictum at tempor commodo ullamcorper. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Mus mauris vitae ultricies leo integer malesuada nunc vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Mattis ullamcorper velit sed ullamcorper morbi. Integer malesuada nunc vel risus commodo. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. In iaculis nunc sed augue lacus. Vulputate mi sit amet mauris commodo quis. Eget mi proin sed libero enim. Tempor id eu nisl nunc mi ipsum faucibus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/donec-adipiscing-tristique-risus-nec-feugiat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Turpis Tincidunt Idaliquet Risus Feugiat Molestie</title>
-		<link>/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/</link>
-					<comments>/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/#respond</comments>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/</link>
+					<comments>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Jul 2021 15:27:12 +0000</pubDate>
@@ -168,15 +168,15 @@
 <p>Bibendum neque egestas congue quisque egestas diam in arcu cursus. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Habitant morbi tristique senectus et netus et malesuada fames. Iaculis nunc sed augue lacus viverra vitae. In ante metus dictum at tempor commodo ullamcorper. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Mus mauris vitae ultricies leo integer malesuada nunc vel. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Mattis ullamcorper velit sed ullamcorper morbi. Integer malesuada nunc vel risus commodo. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. In iaculis nunc sed augue lacus. Vulputate mi sit amet mauris commodo quis. Eget mi proin sed libero enim. Tempor id eu nisl nunc mi ipsum faucibus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khoo04.github.io/wordpress_assignment1/index.php/2021/07/05/turpis-tincidunt-idaliquet-risus-feugiat-molestie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aliquam Vestibulum Morbi Blandit Cursus Risus</title>
-		<link>/index.php/2021/06/30/hello-world/</link>
-					<comments>/index.php/2021/06/30/hello-world/#comments</comments>
+		<link>https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/</link>
+					<comments>https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 15:17:15 +0000</pubDate>
@@ -204,7 +204,7 @@
 <p>Varius quam quisque id diam vel quam. Non blandit massa enim nec dui nunc. Non nisi est sit amet facilisis. Sit amet porttitor eget dolor morbi non arcu risus quis. Purus gravida quis blandit turpis cursus in hac habitasse platea. Elementum tempus egestas sed sed risus pretium. Non diam phasellus vestibulum lorem sed risus ultricies tristique. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Platea dictumst vestibulum rhoncus est pellentesque elit. Pretium lectus quam id leo in. Orci sagittis eu volutpat odio facilisis mauris. Viverra adipiscing at in tellus integer feugiat scelerisque. Turpis egestas sed tempus urna et pharetra pharetra. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Tellus rutrum tellus pellentesque eu tincidunt. In ornare quam viverra orci sagittis. Nunc sed velit dignissim sodales. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Vel turpis nunc eget lorem dolor sed viverra ipsum. Enim eu turpis egestas pretium aenean.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2021/06/30/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khoo04.github.io/wordpress_assignment1/index.php/2021/06/30/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
